@@ -1,7 +1,7 @@
+# vi-gemma-2-2b-RAG 
+__NOTE: This project is in progress.__
 
-# vi-gemma-2-2b-RAG
-
-vi-gemma-2-2b-RAG is a large language model refined from the [`Google/gemma-2-2b-it`](https://huggingface.co/google/gemma-2-2b-it) base model using the LoRA technique. The model is trained on a Vietnamese dataset with the goal of improving its ability to process the Vietnamese language and enhance performance in open information retrieval tasks (Retrieval Augmented Generation - RAG).
+vi-gemma-2-2b-RAG is a large language model refined from the [`google/gemma-2-2b-it`](https://huggingface.co/google/gemma-2-2b-it) base model using the LoRA technique. The model is trained on a Vietnamese dataset to improve its ability to process the Vietnamese language and enhance performance in open information retrieval tasks (Retrieval Augmented Generation - RAG).
 
 ## Purpose of use
 
